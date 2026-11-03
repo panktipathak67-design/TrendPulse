@@ -35,7 +35,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/TrendPulse.git
+git clone https://github.com/panktipathak67-design/TrendPulse.git
 cd TrendPulse
 
 Install the required libraries:
