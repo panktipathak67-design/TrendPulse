@@ -472,11 +472,7 @@ else:
         "Maximum Drawdown": f"{max_drawdown:.2f}%"
     }
 
-    pdf_report = generate_pdf_report(
-        company,
-        pdf_details,
-        pdf_metrics
-    )
+   
 
     st.download_button(
         "📄 Download PDF Research Report",
