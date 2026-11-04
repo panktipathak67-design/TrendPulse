@@ -474,13 +474,6 @@ else:
 
    
 
-    st.download_button(
-        "📄 Download PDF Research Report",
-        data=pdf_report,
-        file_name="TrendPulse_Mutual_Fund_Report.pdf",
-        mime="application/pdf"
-    )
-
     st.info(
         "Returns and risk metrics are calculated from the selected historical "
         "NAV period. Volatility is annualized using 252 trading days. "
